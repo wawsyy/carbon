@@ -117,3 +117,4 @@ contract EnergyLogStorage is SepoliaConfig {
     }
 }
 
+// Commit 1: feat: improve energy log storage efficiency
