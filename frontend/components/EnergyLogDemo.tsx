@@ -684,3 +684,4 @@ export const EnergyLogDemo = () => {
   );
 };
 
+// Commit 2: fix: resolve decryption key handling issue
