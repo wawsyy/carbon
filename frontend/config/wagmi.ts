@@ -29,3 +29,4 @@ export const config = getDefaultConfig({
   ssr: true,
 });
 
+// Commit 4: docs: update API documentation
