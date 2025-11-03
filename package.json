@@ -1,7 +1,7 @@
 {
   "name": "encrypted-home-energy-log",
   "description": "Encrypted Home Energy Log - FHEVM-based smart contract for storing encrypted energy usage data",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "node": ">=20",
     "npm": ">=7.0.0"
