@@ -163,3 +163,4 @@ describe("EnergyLogStorage", function () {
   });
 });
 
+// Commit 5: style: format code with prettier
