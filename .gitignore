@@ -24,3 +24,4 @@ coverage.json
 pnpm-lock.yaml
 yarn.lock
 
+// Commit 8: feat: add data export functionality
