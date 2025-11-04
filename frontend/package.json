@@ -1,6 +1,6 @@
 {
   "name": "encrypted-home-energy-log-frontend",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "private": true,
   "license": "BSD-3-Clause-Clear",
   "scripts": {
