@@ -15,6 +15,7 @@ dotenv.config();
 import "./tasks/accounts";
 import "./tasks/EnergyLog";
 
+// Configuration for FHEVM-based energy logging smart contract
 // Run 'npx hardhat vars setup' to see the list of variables that need to be set
 
 const MNEMONIC: string = vars.get("MNEMONIC", "test test test test test test test test test test test junk");
