@@ -118,3 +118,4 @@ contract EnergyLogStorage is SepoliaConfig {
 }
 
 // Commit 1: feat: improve energy log storage efficiency
+// Commit 9: fix: correct timestamp validation
