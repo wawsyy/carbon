@@ -8,6 +8,8 @@ A fully homomorphic encryption (FHE) enabled dApp for storing and managing home 
 - **Privacy-First**: Only encrypted data is stored on the blockchain; decryption happens locally
 - **User-Friendly**: Simple interface for adding and viewing energy logs
 - **Rainbow Wallet Integration**: Connect using Rainbow wallet for seamless Web3 experience
+- **Multi-Device Support**: Access your energy logs from any device with wallet connection
+- **Historical Analytics**: Track your energy usage patterns over time with secure local analysis
 
 ## Quick Start
 
@@ -131,6 +133,12 @@ npm run test
 
 ```bash
 npm run test:sepolia
+```
+
+### Coverage Testing
+
+```bash
+npm run coverage
 ```
 
 ## Documentation
