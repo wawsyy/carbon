@@ -164,3 +164,4 @@ describe("EnergyLogStorage", function () {
 });
 
 // Commit 5: style: format code with prettier
+// Commit 13: test: add integration tests
