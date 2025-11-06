@@ -30,3 +30,4 @@ export const config = getDefaultConfig({
 });
 
 // Commit 4: docs: update API documentation
+// Commit 12: style: improve component styling
