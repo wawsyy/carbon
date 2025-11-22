@@ -60,7 +60,7 @@ export function ErrorHandler() {
       const reason = event.reason;
       const reasonStr = String(reason || "");
       const errorMessage = reason instanceof Error ? reason.message : reasonStr;
-      const errorStack = reason instanceof Error ? reason.stack : "";
+      const errorStack = reason instanceof Error ? (reason.stack || "") : "";
       
       // Suppress non-critical fetch errors
       if (
