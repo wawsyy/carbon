@@ -56,6 +56,3 @@
     "vitest": "^3.2.4"
   }
 }
-
-// Commit 6: test: add unit tests for energy calculations
-// Commit 14: chore: clean up unused imports
